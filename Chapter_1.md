@@ -1,5 +1,5 @@
-# Begriff und Inhalte der Unternehmensführung
-## Die Bedeutungen
+# Unternehmensführung und strategisches Management: Begriffe, Ebenen und Prozess
+## Die Bedeutungen der Unternehmensführung
 1. Kontrolle und Leitung eines Unternehmens
 2. zielorientierte Interaktion mit den Unternehmensmitgeliedern
 3. Funktionen wie Planung, Personalführung und Repräsentation
@@ -69,3 +69,36 @@ gesamter Geschäftsbereiche
 ### (Interne) Mikroebene - rechts
 - Untersuchung der Verhaltensmuster von Individuen und Gruppen, sowie der Determinanten des Verhaltens
 - Analyse der Möglichkeiten zur Verhaltensänderung
+
+## Fünf Bedeutungen und Definitionen von Strategie
+### Strategie als Trick
+- “Schachzug, um Gegner und Mitbewerber auszutricksen"
+
+### Strategie als Position
+- “Standort" des Produkts in den Märkten (marktorientiert, externe Stufe)
+###                   
+                ↑ nach außen
+                ...
+                ↓ nach innen
+###
+### Strategie als Perspektive*
+- Grundlegende Art, Geschäfte zu betreiben und zu betrachten (unternehmensorientiert, interne Stufe)
+
+*: “Strategie als verbindendes Thema, das den Maßnahmen und Entscheidungen eines Individuums oder eines Unternehmens einen Zusammenhang und eine Richtung gibt” (Grant)
+
+### Strategie als Plan
+- Beabsichtigter Handlungsablauf
+- Zukunftsorientiert
+- „integriertes Maßnahmenbündel“
+
+###                   
+                ↑ vorwärts
+                ...
+                ↓ zurück
+###
+
+### Strategie als Muster
+- Realisierte Verhaltenskonsistenz über einen
+Zeitraum hinweg
+- Geschichtsorientiert (Blick zurück)
+
