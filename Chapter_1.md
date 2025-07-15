@@ -154,3 +154,33 @@ Strategie
 
 
 ## Beispiele potenzieller Unternehmenserfolgskennzahlen
+### Shareholder Value
+- Total Shareholder Return
+- Marktwert des Eigenkapitals
+- Auszahlung der Dividende
+- Leverage/Rating
+### Größe
+- Markt-Position/-Anteil
+- Einnahmen/Gewinne
+- Unternehmenswert
+- Index-Zugehörigkeit
+### Rentabilität
+- EBIT-Marge
+- Kapitalrendite
+- Wirtschaftlicher Gewinn
+- Cash Return
+### Schutz des Unternehmens
+- Langlebigkeit/Überleben
+- Ansehen/Marke
+- Resilienz/Risikobilanz
+- Hauptsitz im Heimatland
+### Wachstum
+- Wachstum der Einnahmen
+- Gewinn von Marktanteilen
+- Wachstum durch Innovation
+- Gewinnwachstum
+### Stakeholder Value
+- Kundenzufriedenheit
+- Zufriedenheit der Mitarbeiter
+- Ökologischer Fußabdruck
+- Nachhaltigkeits-Performance
