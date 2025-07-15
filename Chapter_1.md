@@ -56,7 +56,16 @@ Die Fähigkeit, das Unternehmen in Richtung
 bestimmter Ziele zu beeinflussen: niedrig
 
 ## Ökonomische Untersuchungen auf drei Ebenen
-### Externe Ebene (Makroebene)
+![Ökonomische Untersuchungen auf drei Ebenen](image.png)
+### Externe Ebene (Makroebene) - links
 - Untersuchung unterschiedlicher Organisationen oder
 gesamter Geschäftsbereiche
 - Analyse ihrer Beziehungen und Verbindungen innerhalb der Markt- und Wettbewerbsdynamik
+
+### (Interne) Makroebene (Mesoebene) - mittel
+- Untersuchung der Strukturen und Prozesse in den Organisationen (Untereinheiten, Aufgabenzuordnung, Hierarchien, Kommunikation, ...)
+- Analyse ihres Einflusses auf die Funktionsweise der Organisation
+
+### (Interne) Mikroebene - rechts
+- Untersuchung der Verhaltensmuster von Individuen und Gruppen, sowie der Determinanten des Verhaltens
+- Analyse der Möglichkeiten zur Verhaltensänderung
